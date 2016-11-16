@@ -23,6 +23,7 @@
         ]
     },
     "require": {
-        "twig/twig": "1.22.3"
+        "twig/twig": "1.22.3",
+        "symfony/process": "~2.3|~3.0"
     }
 }
